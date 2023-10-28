@@ -7,8 +7,8 @@ class Dog:
         print(f"{self.name} says 'woof'!")
 
 # Создание объектов класса
-fido = Dog("Fido", "Labrador")
-spot = Dog("Spot", "Golden Retriever")
+fido = Dog("Bobi", "Labrador")
+spot = Dog("Toti", "Golden Retriever")
 
 # Вызов метода bark() для каждого объекта
 fido.bark()
